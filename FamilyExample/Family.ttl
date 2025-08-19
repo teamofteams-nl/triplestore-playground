@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix fam: <http://www.teamofteams.nl/ontologies/fam/1> .
+
+<http://www.teamofteams.nl/ontologies/fam/1/Person#1>
+    a fam:Man ;
+    rdfs:label "Jan" .
+
+<http://www.teamofteams.nl/ontologies/fam/1/Person#2>
+    a fam:Vrouw ;
+    rdfs:label "Nel" .
+
+<http://www.teamofteams.nl/ontologies/fam/1/Person#3>
+    a fam:Man ;
+    rdfs:label "Theo" .
+
+<http://www.teamofteams.nl/ontologies/fam/1/Person#4>
+    a fam:Vrouw ;
+    rdfs:label "Mieke" .
+
+<http://www.teamofteams.nl/ontologies/fam/1/Person#5>
+    a fam:Man ;
+    rdfs:label "Storm" .
+
+<http://www.teamofteams.nl/ontologies/fam/1/Person#6>
+    a fam:Vrouw ;
+    rdfs:label "Winter" .
