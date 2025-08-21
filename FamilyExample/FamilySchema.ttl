@@ -1,14 +1,11 @@
 @prefix fam: <http://www.teamofteams.nl/ontologies/fam/1> .
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix dc11: <http://purl.org/dc/elements/1.1/> .
 
 fam:
-    a owl:Ontology ;
-    dc11:description "The Friend of a Friend (FOAF) RDF vocabulary, described using W3C RDF Schema and the Web Ontology Language."^^xsd:string ;
-    dc11:title "Friend of a Friend (FOAF) vocabulary"^^xsd:string .
+    a owl:Ontology .
 
 fam:Person
     a owl:Thing.

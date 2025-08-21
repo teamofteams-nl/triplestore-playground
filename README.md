@@ -30,6 +30,11 @@ Also referred to as quad stores. In that case the triple is prefixed with a grap
 Version 1.0 is the first final version of the spec and only supports querying data.
 Version 1.1 adds complexer query methods and data manipulation
 
+Sparql can can be accessed via an HTTP api endpoint
+
+sparql clients:
+   - https://www.npmjs.com/package/sparqljs
+   - https://www.npmjs.com/package/sparql-http-client
 
 ## Questions
  - **How are namespaces resolved?**

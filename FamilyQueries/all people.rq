@@ -4,3 +4,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX fam: <http://www.teamofteams.nl/ontologies/fam/1>
 
 
+SELECT ?s ?p ?o ?l
+WHERE {
+#    ?s a fam:Person # this should work when inferencing is enabled
+    ?s rdf:type ?o .
+    ?o rdfs:subClassOf fam:Person
+}
