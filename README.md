@@ -4,7 +4,7 @@ A repo used to select a viable triplestore solution
 
 ## Resources
  - Comprehensive lectures about triplestore/rdf/SPARQL: 
-   - https://www.youtube.com/watch?v=qRu82l90CZw&list=PLoOmvuyo5UAeihlKcWpzVzB51rr014TwD&index=9&ab_channel=OpenHPITutorials
+   - https://www.youtube.com/watch?v=fkUduxokEtE&list=PLoOmvuyo5UAeihlKcWpzVzB51rr014TwD&index=8&ab_channel=OpenHPITutorials
  - List of editors
    - https://rdfandsparql.com/blog/tpost/pbsx7g3ue1-whats-the-best-sparql-editor
 
